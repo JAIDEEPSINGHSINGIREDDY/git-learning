@@ -1,1 +1,9 @@
 *.swp
+
+*.log
+
+.env
+
+__pycache__/
+
+.vscode/
