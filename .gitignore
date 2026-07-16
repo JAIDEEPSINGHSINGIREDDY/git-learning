@@ -4,6 +4,10 @@
 
 .env
 
+*.tmp
+
+node_modules/
+
 __pycache__/
 
 .vscode/
